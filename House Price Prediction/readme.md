@@ -1,7 +1,7 @@
-Building a Real Estate Price Prediction website.
+## Building a Real Estate Price Prediction website.
 
 
-Dependencies:
+### Dependencies:
 
 1. Python
 2. Numpy and Pandas for data cleaning
